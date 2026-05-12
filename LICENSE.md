@@ -1,4 +1,4 @@
-
+Enhance Alfred for macOS with Alfred for macOS vip Script: snapshot-rollback & quick-launch, the #1 script. Includes snapshot-rollback and quick-launch for a smoother macOS
 
 
 
